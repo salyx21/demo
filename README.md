@@ -1,2 +1,2 @@
 # flask-demo
-sonar test
+sonar test 2
